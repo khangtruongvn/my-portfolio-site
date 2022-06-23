@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "khang-components/*": ["components/*"],
+      "khang-reducers/*": ["redux/reducers/*"],
+      "khang-redux/*": ["redux/*"],
+      "khang-styles/*": ["styles/*"],
+      "khang-api/*": ["api/*"],
+      "khang-configs/*": ["configs/*"],
+      "khang-utils/*": ["utils/*"],
+      "khang-containers/*": ["containers/*"]
+    }
+  }
+}
